@@ -1,3 +1,5 @@
+__Project moved to [https://www.drupal.org/project/starrating_formdisplay](https://www.drupal.org/project/starrating_formdisplay)__
+
 This module tranform select tag of [starrating module](https://www.drupal.org/project/starrating) to clickable icon (more friendly)
 
 ## Installation
